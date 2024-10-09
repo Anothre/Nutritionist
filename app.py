@@ -37,7 +37,6 @@ def input_image_setup(uploaded_file):
         raise FileNotFoundError("No file uploaded")
 
 
-##initialize our streamlit app
 
 
 st.header("Gemini Health App")
